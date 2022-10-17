@@ -163,6 +163,12 @@
 ##
 
 
+a=range(10)
+for each in a:
+    print(each)
+
+
+
 
 
 
